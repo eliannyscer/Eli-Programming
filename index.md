@@ -1,5 +1,6 @@
-[loops](loops.md) 
+# Python
 
-[loops](loops)
-
-[loops](https://eliannyscer.github.io/Eli-Programming/loops)
+- [Loops](loops)
+- [Statements](statements)
+- [Strings](strings)
+- [Visual studio code](visual-studio-code)
